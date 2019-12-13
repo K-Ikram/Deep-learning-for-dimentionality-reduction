@@ -10,8 +10,12 @@ cd Deep-learning-for-dimentionality-reduction
 conda env create
 ```
 
-
 #### Activate the environment (Windows)
 ```
 conda activate rd
+```
+
+#### Launch Jupyter notebook
+```
+Jupyter Notebook
 ```
